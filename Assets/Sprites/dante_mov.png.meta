@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 95503c4c9644c254faf6a828bf06e66f
+timeCreated: 1472482808
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dante_mov_0
+    21300002: dante_mov_1
+    21300004: dante_mov_2
+    21300006: dante_mov_3
+    21300008: dante_mov_4
+    21300010: dante_mov_5
+    21300012: dante_mov_6
+    21300014: dante_mov_7
+    21300016: dante_mov_8
+    21300018: dante_mov_9
+    21300020: dante_mov_10
+    21300022: dante_mov_11
+    21300024: dante_mov_12
+    21300026: dante_mov_13
+    21300028: dante_mov_14
+    21300030: dante_mov_15
+    21300032: dante_mov_16
+    21300034: dante_mov_17
+    21300036: dante_mov_18
+    21300038: dante_mov_19
+    21300040: dante_mov_20
+    21300042: dante_mov_21
+    21300044: dante_mov_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dante_mov_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 115}
+        - {x: -31, y: 1}
+        - {x: -29, y: 0}
+        - {x: 23, y: 0}
+        - {x: 31, y: 46}
+        - {x: 31, y: 113}
+        - {x: 30, y: 115}
+    - name: dante_mov_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 114}
+        - {x: -31, y: 99}
+        - {x: -31, y: 2}
+        - {x: -23, y: 0}
+        - {x: 31, y: 0}
+        - {x: 31, y: 114}
+    - name: dante_mov_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 115}
+        - {x: -31, y: 0}
+        - {x: 24, y: 0}
+        - {x: 31, y: 43}
+        - {x: 31, y: 106}
+        - {x: 19, y: 115}
+    - name: dante_mov_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 0}
+        - {x: 28, y: 0}
+        - {x: 31, y: 7}
+        - {x: 31, y: 113}
+        - {x: -31, y: 113}
+    - name: dante_mov_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 115}
+        - {x: -31, y: 113}
+        - {x: -31, y: 0}
+        - {x: 24, y: 0}
+        - {x: 27, y: 1}
+        - {x: 31, y: 28}
+        - {x: 31, y: 106}
+        - {x: 19, y: 115}
+    - name: dante_mov_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 116}
+        - {x: -31, y: 98}
+        - {x: -31, y: 5}
+        - {x: -25, y: 0}
+        - {x: 26, y: 0}
+        - {x: 31, y: 31}
+        - {x: 31, y: 112}
+        - {x: 25, y: 116}
+    - name: dante_mov_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 112}
+        - {x: -31, y: 97}
+        - {x: -31, y: 0}
+        - {x: 13, y: 0}
+        - {x: 22, y: 2}
+        - {x: 31, y: 67}
+        - {x: 31, y: 107}
+        - {x: 28, y: 112}
+      - - {x: -1, y: 128}
+        - {x: 0, y: 125}
+        - {x: 3, y: 125}
+        - {x: 5, y: 127}
+        - {x: 5, y: 128}
+    - name: dante_mov_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 116}
+        - {x: -31, y: 101}
+        - {x: -31, y: 0}
+        - {x: 21, y: 0}
+        - {x: 31, y: 23}
+        - {x: 31, y: 107}
+        - {x: 23, y: 116}
+    - name: dante_mov_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 116}
+        - {x: -13, y: 116}
+        - {x: -31, y: 100}
+        - {x: -31, y: 6}
+        - {x: -19, y: 0}
+        - {x: 19, y: 0}
+        - {x: 31, y: 53}
+        - {x: 31, y: 112}
+      - - {x: 9, y: 126}
+        - {x: 9, y: 128}
+        - {x: 4, y: 128}
+        - {x: 6, y: 125}
+    - name: dante_mov_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 116}
+        - {x: -31, y: 100}
+        - {x: -31, y: 1}
+        - {x: -30, y: 0}
+        - {x: 12, y: 0}
+        - {x: 25, y: 6}
+        - {x: 31, y: 42}
+        - {x: 31, y: 116}
+      - - {x: 2, y: 126}
+        - {x: 2, y: 128}
+        - {x: -3, y: 128}
+        - {x: -1, y: 125}
+    - name: dante_mov_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 116}
+        - {x: -17, y: 116}
+        - {x: -31, y: 113}
+        - {x: -31, y: 3}
+        - {x: -22, y: 0}
+        - {x: 23, y: 0}
+        - {x: 31, y: 30}
+        - {x: 31, y: 101}
+        - {x: 24, y: 109}
+    - name: dante_mov_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 111}
+        - {x: -31, y: 95}
+        - {x: -31, y: 0}
+        - {x: 19, y: 0}
+        - {x: 31, y: 44}
+        - {x: 31, y: 106}
+        - {x: 25, y: 111}
+    - name: dante_mov_12
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 117}
+        - {x: -31, y: 103}
+        - {x: -31, y: 5}
+        - {x: -26, y: 0}
+        - {x: 16, y: 0}
+        - {x: 29, y: 4}
+        - {x: 31, y: 21}
+        - {x: 31, y: 107}
+        - {x: 16, y: 117}
+    - name: dante_mov_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 116}
+        - {x: -29, y: 105}
+        - {x: -32, y: 91}
+        - {x: -32, y: 32}
+        - {x: -26, y: 0}
+        - {x: 19, y: 0}
+        - {x: 30, y: 3}
+        - {x: 31, y: 15}
+        - {x: 31, y: 109}
+        - {x: 18, y: 116}
+    - name: dante_mov_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 116}
+        - {x: -31, y: 109}
+        - {x: -31, y: 0}
+        - {x: 15, y: 0}
+        - {x: 28, y: 3}
+        - {x: 31, y: 25}
+        - {x: 31, y: 106}
+        - {x: 16, y: 116}
+      - - {x: 0, y: 126}
+        - {x: 0, y: 128}
+        - {x: -5, y: 128}
+        - {x: -3, y: 125}
+    - name: dante_mov_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 116}
+        - {x: -31, y: 116}
+        - {x: -31, y: 0}
+        - {x: 12, y: 0}
+        - {x: 17, y: 9}
+        - {x: 23, y: 37}
+        - {x: 31, y: 86}
+    - name: dante_mov_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 116}
+        - {x: -31, y: 116}
+        - {x: -31, y: 0}
+        - {x: 12, y: 0}
+        - {x: 17, y: 9}
+        - {x: 23, y: 37}
+        - {x: 31, y: 86}
+      - - {x: -8, y: 128}
+        - {x: -7, y: 125}
+        - {x: -4, y: 125}
+        - {x: -2, y: 127}
+        - {x: -2, y: 128}
+    - name: dante_mov_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 116}
+        - {x: -31, y: 0}
+        - {x: 19, y: 0}
+        - {x: 31, y: 55}
+        - {x: 31, y: 106}
+        - {x: 15, y: 116}
+      - - {x: -8, y: 128}
+        - {x: -7, y: 125}
+        - {x: -4, y: 125}
+        - {x: -2, y: 127}
+        - {x: -2, y: 128}
+    - name: dante_mov_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 116}
+        - {x: -31, y: 104}
+        - {x: -31, y: 3}
+        - {x: -24, y: 0}
+        - {x: 19, y: 0}
+        - {x: 31, y: 44}
+        - {x: 31, y: 116}
+    - name: dante_mov_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 116}
+        - {x: -18, y: 116}
+        - {x: -31, y: 104}
+        - {x: -31, y: 15}
+        - {x: -30, y: 11}
+        - {x: -18, y: 0}
+        - {x: 10, y: 0}
+        - {x: 24, y: 4}
+        - {x: 31, y: 36}
+        - {x: 31, y: 114}
+    - name: dante_mov_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 116}
+        - {x: -31, y: 104}
+        - {x: -31, y: 3}
+        - {x: -24, y: 0}
+        - {x: 19, y: 0}
+        - {x: 31, y: 44}
+        - {x: 31, y: 116}
+    - name: dante_mov_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 116}
+        - {x: -31, y: 0}
+        - {x: 19, y: 0}
+        - {x: 31, y: 55}
+        - {x: 31, y: 106}
+        - {x: 15, y: 116}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
